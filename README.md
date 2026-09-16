@@ -36,12 +36,11 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br />
-  <!-- Frameworks, AI & OS -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutter/flutter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/fastapi/fastapi-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kali_linux/kali_linux-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://img.shields.io/badge/AI-Agents-blue?style=for-the-badge&logo=openai&logoColor=white"></code>
+  <!-- Frameworks, AI & OS (Stable Badges) -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Agents-blue?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 &nbsp;
