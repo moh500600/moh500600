@@ -1,15 +1,15 @@
-<!-- ====================================================== -->
-<!--                  PROFILE HEADER                        -->
-<!-- ====================================================== -->
+<!-- ========================= -->
+<!--        PROFILE HEADER      -->
+<!-- ========================= -->
 
 <div align="center">
 
 # 👋 Hi, I'm moh500600
 
-### 🛡️ Cybersecurity Enthusiast • 🤖 AI Developer • 💻 Software Developer
+### 🛡️ Cybersecurity Enthusiast • 💻 Developer • 🐉 Kali Linux Explorer
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast+%26+Developer;Artificial+Intelligence+%26+AI+Agents;Ethical+Hacking+%7C+Kali+Linux;LLMs+%7C+RAG+%7C+Prompt+Engineering;Flutter+%7C+Python+%7C+FastAPI;Building+Secure+AI-Powered+Applications"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%26+Developer;Ethical+Hacking+%7C+Kali+Linux;Flutter+%7C+Python+%7C+FastAPI;Web+%26+Network+Security;AI+Agents+%2B+Cybersecurity"
   alt="Typing SVG"
 />
 
@@ -27,9 +27,9 @@
 
 ---
 
-<!-- ====================================================== -->
-<!--                       ABOUT ME                         -->
-<!-- ====================================================== -->
+<!-- ========================= -->
+<!--          ABOUT ME         -->
+<!-- ========================= -->
 
 ## 👨‍💻 About Me
 
@@ -41,27 +41,25 @@
 />
 
 - 🔭 Working on **AI Agents & Secure Mobile/Web Solutions**
-- 🤖 Exploring **Generative AI, LLMs, RAG & AI Agents**
-- 🧠 Interested in **Machine Learning & Deep Learning**
-- 🐍 Building AI solutions using **Python**
-- ⚡ Developing AI APIs with **FastAPI**
 - 🐉 Exploring the **Kali Linux Ecosystem**
 - 🛡️ Learning **Advanced Ethical Hacking & Penetration Testing**
 - 🌐 Interested in **Web Application & Network Security**
 - 📱 Building applications with **Flutter & Dart**
-- 🔐 Interested in **Secure Software & AI Development**
+- 🐍 Developing backend solutions with **Python & FastAPI**
+- 🔐 Interested in **Secure Software Development**
 - 🔎 Exploring **OSINT & Reconnaissance**
-- 🤝 Open to collaborating on **Cybersecurity, AI & Software Projects**
-- 💬 Ask me about **Python, AI Agents, Flutter, FastAPI, Dart, PHP, Java & Web Security**
-- ⚡ Passionate about combining **AI + Software Development + Cybersecurity**
+- 🤖 Combining **Artificial Intelligence with Cybersecurity**
+- 👯 Open to collaborating on **Security & AI Projects**
+- 💬 Ask me about **Flutter, Dart, Python, FastAPI, PHP, Java & Web Security**
+- ⚡ Passionate about combining **Development + AI + Cybersecurity**
 
 <br clear="both">
 
 ---
 
-<!-- ====================================================== -->
-<!--                    TECH STACK                          -->
-<!-- ====================================================== -->
+<!-- ========================= -->
+<!--       TECH STACK          -->
+<!-- ========================= -->
 
 ## 💻 Languages & Development Stack
 
@@ -90,343 +88,273 @@
 
 ---
 
-<!-- ====================================================== -->
-<!--                  AI TECHNOLOGY STACK                   -->
-<!-- ====================================================== -->
-
-# 🤖 Artificial Intelligence & AI Engineering
-
-<div align="center">
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6A5ACD?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLMs-Large%20Language%20Models-008080?style=for-the-badge)
-
-<br>
-
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20AI-005571?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-4B0082?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-228B22?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4169E1?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF1493?style=for-the-badge)
-
-</div>
-
-<br>
-
-## 🧠 AI Development Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github" />
-
-<br><br>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-<br>
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5B3FD8?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                    AI SKILLS                           -->
-<!-- ====================================================== -->
-
-## 🚀 AI Skills Arsenal
-
-> Building intelligent applications using modern AI, machine learning,
-> large language models, retrieval systems and autonomous agents.
-
-<details>
-<summary><b>🧠 01 — Machine Learning & Data Science</b></summary>
-
-<br>
-
-| # | Skill | Technology / Concept |
-|---:|---|---|
-| 01 | **Machine Learning Fundamentals** | Supervised & Unsupervised Learning |
-| 02 | **Data Preprocessing** | Pandas / NumPy |
-| 03 | **Data Cleaning** | Pandas |
-| 04 | **Feature Engineering** | Scikit-learn |
-| 05 | **Classification Models** | Scikit-learn |
-| 06 | **Regression Models** | Scikit-learn |
-| 07 | **Clustering** | K-Means / DBSCAN |
-| 08 | **Model Evaluation** | Accuracy / Precision / Recall / F1 |
-| 09 | **Cross Validation** | Scikit-learn |
-| 10 | **Hyperparameter Tuning** | GridSearch / RandomSearch |
-
-<br>
-
-![Machine Learning](https://img.shields.io/badge/01-Machine%20Learning-FF6F00?style=flat-square)
-![Pandas](https://img.shields.io/badge/02-Pandas-150458?style=flat-square)
-![NumPy](https://img.shields.io/badge/03-NumPy-013243?style=flat-square)
-![Scikit Learn](https://img.shields.io/badge/04-Scikit--Learn-F7931E?style=flat-square)
-![Data Science](https://img.shields.io/badge/05-Data%20Science-008080?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><b>🧬 02 — Deep Learning & Neural Networks</b></summary>
-
-<br>
-
-| # | Skill | Technology / Concept |
-|---:|---|---|
-| 11 | **Neural Networks** | ANN |
-| 12 | **Deep Learning** | PyTorch / TensorFlow |
-| 13 | **Convolutional Neural Networks** | CNN |
-| 14 | **Recurrent Neural Networks** | RNN |
-| 15 | **Long Short-Term Memory** | LSTM |
-| 16 | **Transformers** | Attention Architecture |
-| 17 | **Transfer Learning** | Pretrained Models |
-| 18 | **Model Training** | PyTorch |
-| 19 | **Model Optimization** | Optimization Techniques |
-| 20 | **GPU-Based AI Training** | CUDA Concepts |
-
-<br>
-
-![PyTorch](https://img.shields.io/badge/11-PyTorch-EE4C2C?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/12-TensorFlow-FF6F00?style=flat-square)
-![CNN](https://img.shields.io/badge/13-CNN-4169E1?style=flat-square)
-![Transformers](https://img.shields.io/badge/14-Transformers-FFD700?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/15-Deep%20Learning-8A2BE2?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><b>💬 03 — Large Language Models & Generative AI</b></summary>
-
-<br>
-
-| # | Skill | Technology / Concept |
-|---:|---|---|
-| 21 | **Large Language Models** | LLMs |
-| 22 | **Generative AI Applications** | GenAI |
-| 23 | **Prompt Engineering** | Prompt Design |
-| 24 | **System Prompt Design** | LLM Instructions |
-| 25 | **Few-Shot Prompting** | In-Context Learning |
-| 26 | **Structured AI Output** | JSON / Schemas |
-| 27 | **LLM API Integration** | REST APIs / Python |
-| 28 | **Local LLM Deployment** | Ollama |
-| 29 | **Open-Source LLMs** | Hugging Face |
-| 30 | **LLM Application Development** | Python / FastAPI |
-
-<br>
-
-![LLM](https://img.shields.io/badge/21-LLMs-008080?style=flat-square)
-![Generative AI](https://img.shields.io/badge/22-Generative%20AI-6A5ACD?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/23-Prompt%20Engineering-FF1493?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/24-Hugging%20Face-FFD21E?style=flat-square)
-![Ollama](https://img.shields.io/badge/25-Ollama-000000?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><b>📚 04 — RAG, Embeddings & Vector Search</b></summary>
-
-<br>
-
-| # | Skill | Technology / Concept |
-|---:|---|---|
-| 31 | **Retrieval-Augmented Generation** | RAG |
-| 32 | **Document Processing** | PDF / Text Processing |
-| 33 | **Text Chunking** | Semantic Chunking |
-| 34 | **Embeddings** | Vector Representations |
-| 35 | **Semantic Search** | Embedding Similarity |
-| 36 | **Vector Databases** | Vector Storage |
-| 37 | **Knowledge Base Development** | RAG Pipelines |
-| 38 | **Document Question Answering** | LLM + Retrieval |
-| 39 | **Context Retrieval** | Search Pipelines |
-| 40 | **RAG API Development** | FastAPI |
-
-<br>
-
-![RAG](https://img.shields.io/badge/31-RAG-4B0082?style=flat-square)
-![Embeddings](https://img.shields.io/badge/32-Embeddings-1E90FF?style=flat-square)
-![Vector DB](https://img.shields.io/badge/33-Vector%20Database-228B22?style=flat-square)
-![Semantic Search](https://img.shields.io/badge/34-Semantic%20Search-FF8C00?style=flat-square)
-![Knowledge Base](https://img.shields.io/badge/35-Knowledge%20Base-008080?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><b>🤖 05 — AI Agents & Agentic Systems</b></summary>
-
-<br>
-
-| # | Skill | Technology / Concept |
-|---:|---|---|
-| 41 | **AI Agent Development** | Agentic AI |
-| 42 | **Tool-Using Agents** | Function / Tool Calling |
-| 43 | **Multi-Step AI Workflows** | Agent Workflows |
-| 44 | **Agent Memory Concepts** | Context & Memory |
-| 45 | **Multi-Agent Systems** | Agent Collaboration |
-| 46 | **AI Task Automation** | Intelligent Automation |
-| 47 | **API-Connected Agents** | API Integration |
-| 48 | **Web-Connected AI Workflows** | Search & Retrieval |
-| 49 | **Agent Orchestration** | LangChain / Frameworks |
-| 50 | **Secure AI Agent Design** | AI Security |
-
-<br>
-
-![AI Agents](https://img.shields.io/badge/41-AI%20Agents-005571?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/42-Tool%20Calling-4169E1?style=flat-square)
-![Automation](https://img.shields.io/badge/43-AI%20Automation-228B22?style=flat-square)
-![Multi Agent](https://img.shields.io/badge/44-Multi--Agent-8A2BE2?style=flat-square)
-![AI Security](https://img.shields.io/badge/45-AI%20Security-B22222?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><b>👁️ 06 — Computer Vision & Image AI</b></summary>
-
-<br>
-
-| # | Skill | Technology / Concept |
-|---:|---|---|
-| 51 | **Image Processing** | OpenCV |
-| 52 | **Image Classification** | CNN |
-| 53 | **Object Detection Concepts** | Computer Vision |
-| 54 | **Image Preprocessing** | OpenCV / Python |
-| 55 | **OCR Integration** | Text Extraction |
-| 56 | **AI Image Analysis** | Vision Models |
-| 57 | **Image Feature Extraction** | Computer Vision |
-| 58 | **Vision Model Integration** | AI APIs |
-| 59 | **Multimodal AI Concepts** | Text + Image |
-| 60 | **Image-Based AI Applications** | Python |
-
-<br>
-
-![OpenCV](https://img.shields.io/badge/51-OpenCV-5C3EE8?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/52-Computer%20Vision-4169E1?style=flat-square)
-![OCR](https://img.shields.io/badge/53-OCR-008080?style=flat-square)
-![Vision AI](https://img.shields.io/badge/54-Vision%20AI-8A2BE2?style=flat-square)
-![Multimodal](https://img.shields.io/badge/55-Multimodal%20AI-FF1493?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><b>📝 07 — Natural Language Processing</b></summary>
-
-<br>
-
-| # | Skill | Technology / Concept |
-|---:|---|---|
-| 61 | **Natural Language Processing** | NLP |
-| 62 | **Text Preprocessing** | Python |
-| 63 | **Tokenization** | NLP |
-| 64 | **Text Classification** | NLP Models |
-| 65 | **Sentiment Analysis** | NLP |
-| 66 | **Named Entity Recognition** | NER |
-| 67 | **Text Summarization** | LLM / NLP |
-| 68 | **Question Answering** | NLP / LLM |
-| 69 | **Semantic Similarity** | Embeddings |
-| 70 | **Conversational AI** | Chatbots |
-
-<br>
-
-![NLP](https://img.shields.io/badge/61-NLP-228B22?style=flat-square)
-![Text Classification](https://img.shields.io/badge/62-Text%20Classification-1E90FF?style=flat-square)
-![NER](https://img.shields.io/badge/63-NER-8A2BE2?style=flat-square)
-![Summarization](https://img.shields.io/badge/64-Summarization-FF8C00?style=flat-square)
-![Chatbots](https://img.shields.io/badge/65-Conversational%20AI-008080?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><b>⚙️ 08 — AI Backend, Deployment & MLOps</b></summary>
-
-<br>
-
-| # | Skill | Technology / Concept |
-|---:|---|---|
-| 71 | **AI API Development** | FastAPI |
-| 72 | **REST API Integration** | Python |
-| 73 | **Model Serving** | FastAPI |
-| 74 | **Dockerized AI Applications** | Docker |
-| 75 | **Environment Management** | Python |
-| 76 | **Git Version Control** | Git / GitHub |
-| 77 | **AI Pipeline Development** | Python |
-| 78 | **Model Evaluation Pipelines** | ML Evaluation |
-| 79 | **AI Application Logging** | Monitoring Concepts |
-| 80 | **AI Application Security** | Secure AI Engineering |
-
-<br>
-
-![FastAPI](https://img.shields.io/badge/71-FastAPI-009688?style=flat-square)
-![Docker](https://img.shields.io/badge/72-Docker-2496ED?style=flat-square)
-![MLOps](https://img.shields.io/badge/73-MLOps-FF6F00?style=flat-square)
-![Git](https://img.shields.io/badge/74-Git-F05032?style=flat-square)
-![Secure AI](https://img.shields.io/badge/75-Secure%20AI-B22222?style=flat-square)
-
-</details>
-
----
-
-<!-- ====================================================== -->
-<!--                   AI FOCUS AREAS                       -->
-<!-- ====================================================== -->
-
-## 🎯 AI Focus Areas
-
-<div align="center">
-
-| 🧠 Machine Learning | 💬 Generative AI | 🤖 AI Agents |
-|:---:|:---:|:---:|
-| Classification | Large Language Models | Tool Calling |
-| Regression | Prompt Engineering | Agent Workflows |
-| Clustering | LLM Applications | Multi-Agent Systems |
-| Model Evaluation | Local LLMs | AI Automation |
-
-| 📚 RAG | 👁️ Computer Vision | ⚙️ AI Engineering |
-|:---:|:---:|:---:|
-| Embeddings | Image Processing | FastAPI |
-| Vector Search | OCR | Docker |
-| Semantic Search | Vision Models | API Integration |
-| Knowledge Bases | Multimodal AI | Secure AI Systems |
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                  CYBER SECURITY                        -->
-<!-- ====================================================== -->
-
-# 🛡️ Cybersecurity & Kali Linux
+<!-- ========================= -->
+<!--       CYBER SECURITY      -->
+<!-- ========================= -->
+
+## 🛡️ Cybersecurity Stack
 
 <div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-Reconnaissance-00A98F?style=for-the-badge)
+
+</div>
+
+---
+
+# 🐉 Kali Linux Arsenal
+
+> ⚠️ All cybersecurity tools and techniques listed here are intended for
+> **ethical hacking, authorized penetration testing, security research,
+> CTFs, labs, and defensive security purposes only.**
+
+<br>
+
+<!-- ====================================== -->
+<!--  01 - INFORMATION GATHERING            -->
+<!-- ====================================== -->
+
+<details>
+<summary><b>🔎 01 — Information Gathering & Reconnaissance</b></summary>
+
+<br>
+
+| # | Tool | Skill |
+|---:|---|---|
+| 01 | **Nmap** | Network scanning, service enumeration & host discovery |
+| 02 | **Masscan** | High-speed port scanning |
+| 03 | **Netcat** | TCP/UDP connectivity & network troubleshooting |
+| 04 | **TheHarvester** | OSINT email, domain & subdomain discovery |
+| 05 | **Recon-ng** | Modular reconnaissance & OSINT |
+| 06 | **Amass** | Attack surface mapping & subdomain enumeration |
+| 07 | **Sublist3r** | Subdomain discovery |
+| 08 | **WhatWeb** | Web technology fingerprinting |
+| 09 | **Maltego** | Visual OSINT & relationship analysis |
+| 10 | **Dnsenum** | DNS enumeration |
+
+<br>
+
+![Nmap](https://img.shields.io/badge/01-Nmap-4682B4?style=flat-square)
+![Masscan](https://img.shields.io/badge/02-Masscan-222222?style=flat-square)
+![Netcat](https://img.shields.io/badge/03-Netcat-006400?style=flat-square)
+![TheHarvester](https://img.shields.io/badge/04-TheHarvester-8A2BE2?style=flat-square)
+![Recon-ng](https://img.shields.io/badge/05-Recon--ng-1E90FF?style=flat-square)
+
+![Amass](https://img.shields.io/badge/06-Amass-FF6347?style=flat-square)
+![Sublist3r](https://img.shields.io/badge/07-Sublist3r-008080?style=flat-square)
+![WhatWeb](https://img.shields.io/badge/08-WhatWeb-FF8C00?style=flat-square)
+![Maltego](https://img.shields.io/badge/09-Maltego-1E90FF?style=flat-square)
+![Dnsenum](https://img.shields.io/badge/10-Dnsenum-800080?style=flat-square)
+
+</details>
+
+---
+
+<!-- ====================================== -->
+<!--  02 - VULNERABILITY ANALYSIS           -->
+<!-- ====================================== -->
+
+<details>
+<summary><b>🔬 02 — Vulnerability Assessment & Analysis</b></summary>
+
+<br>
+
+| # | Tool | Skill |
+|---:|---|---|
+| 11 | **Nikto** | Web server vulnerability scanning |
+| 12 | **OpenVAS / Greenbone** | Vulnerability assessment |
+| 13 | **Nessus** | Vulnerability scanning & assessment |
+| 14 | **Lynis** | Linux security auditing |
+| 15 | **WPScan** | WordPress security assessment |
+| 16 | **Searchsploit** | Exploit-DB research |
+| 17 | **Wapiti** | Web vulnerability assessment |
+| 18 | **DIRB** | Directory & resource discovery |
+| 19 | **Gobuster** | Directory, DNS & virtual-host enumeration |
+| 20 | **ffuf** | Fast web fuzzing & content discovery |
+
+<br>
+
+![Nikto](https://img.shields.io/badge/11-Nikto-8B0000?style=flat-square)
+![OpenVAS](https://img.shields.io/badge/12-OpenVAS-32CD32?style=flat-square)
+![Nessus](https://img.shields.io/badge/13-Nessus-00AEEF?style=flat-square)
+![Lynis](https://img.shields.io/badge/14-Lynis-FFD700?style=flat-square)
+![WPScan](https://img.shields.io/badge/15-WPScan-21759B?style=flat-square)
+
+![Searchsploit](https://img.shields.io/badge/16-Searchsploit-FF0000?style=flat-square)
+![Wapiti](https://img.shields.io/badge/17-Wapiti-663399?style=flat-square)
+![DIRB](https://img.shields.io/badge/18-DIRB-333333?style=flat-square)
+![Gobuster](https://img.shields.io/badge/19-Gobuster-00CED1?style=flat-square)
+![ffuf](https://img.shields.io/badge/20-ffuf-FF1493?style=flat-square)
+
+</details>
+
+---
+
+<!-- ====================================== -->
+<!--  03 - WEB APPLICATION SECURITY         -->
+<!-- ====================================== -->
+
+<details>
+<summary><b>🌐 03 — Web Application Security</b></summary>
+
+<br>
+
+| # | Tool | Skill |
+|---:|---|---|
+| 21 | **Burp Suite** | Web proxying & application security testing |
+| 22 | **OWASP ZAP** | Web security assessment |
+| 23 | **SQLmap** | SQL injection security testing |
+| 24 | **Commix** | Command injection testing |
+| 25 | **BeEF** | Browser security research |
+| 26 | **Skipfish** | Web application reconnaissance |
+| 27 | **DirBuster** | Web directory enumeration |
+| 28 | **XSStrike** | XSS security testing |
+| 29 | **Nuclei** | Template-based vulnerability scanning |
+| 30 | **HTTPX** | HTTP probing & web asset discovery |
+
+<br>
+
+![Burp Suite](https://img.shields.io/badge/21-Burp%20Suite-FF6633?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/22-OWASP%20ZAP-00549E?style=flat-square)
+![SQLmap](https://img.shields.io/badge/23-SQLmap-FF4500?style=flat-square)
+![Commix](https://img.shields.io/badge/24-Commix-800000?style=flat-square)
+![BeEF](https://img.shields.io/badge/25-BeEF-B22222?style=flat-square)
+
+![Skipfish](https://img.shields.io/badge/26-Skipfish-4169E1?style=flat-square)
+![DirBuster](https://img.shields.io/badge/27-DirBuster-696969?style=flat-square)
+![XSStrike](https://img.shields.io/badge/28-XSStrike-DC143C?style=flat-square)
+![Nuclei](https://img.shields.io/badge/29-Nuclei-7B68EE?style=flat-square)
+![HTTPX](https://img.shields.io/badge/30-HTTPX-20B2AA?style=flat-square)
+
+</details>
+
+---
+
+<!-- ====================================== -->
+<!--  04 - EXPLOITATION / ACTIVE DIRECTORY -->
+<!-- ====================================== -->
+
+<details>
+<summary><b>🧪 04 — Penetration Testing & Active Directory</b></summary>
+
+<br>
+
+| # | Tool | Skill |
+|---:|---|---|
+| 31 | **Metasploit Framework** | Authorized penetration-testing framework |
+| 32 | **Impacket** | Windows network protocol testing |
+| 33 | **BloodHound** | Active Directory relationship mapping |
+| 34 | **NetExec** | Windows / AD security assessment |
+| 35 | **Evil-WinRM** | Authorized Windows remote management testing |
+| 36 | **Responder** | Network authentication analysis |
+| 37 | **Empire** | Post-exploitation lab framework |
+| 38 | **Mimikatz** | Windows credential-security research |
+| 39 | **PowerSploit** | PowerShell security research |
+| 40 | **Social-Engineer Toolkit** | Social-engineering awareness labs |
+
+<br>
+
+![Metasploit](https://img.shields.io/badge/31-Metasploit-2596CD?style=flat-square)
+![Impacket](https://img.shields.io/badge/32-Impacket-4B0082?style=flat-square)
+![BloodHound](https://img.shields.io/badge/33-BloodHound-B22222?style=flat-square)
+![NetExec](https://img.shields.io/badge/34-NetExec-228B22?style=flat-square)
+![Evil WinRM](https://img.shields.io/badge/35-Evil--WinRM-8B0000?style=flat-square)
+
+![Responder](https://img.shields.io/badge/36-Responder-FF8C00?style=flat-square)
+![Empire](https://img.shields.io/badge/37-Empire-483D8B?style=flat-square)
+![Mimikatz](https://img.shields.io/badge/38-Mimikatz-DC143C?style=flat-square)
+![PowerSploit](https://img.shields.io/badge/39-PowerSploit-1E90FF?style=flat-square)
+![SET](https://img.shields.io/badge/40-SET-8B4513?style=flat-square)
+
+</details>
+
+---
+
+<!-- ====================================== -->
+<!--  05 - PASSWORD / WIRELESS / NETWORK    -->
+<!-- ====================================== -->
+
+<details>
+<summary><b>🔐 05 — Password, Wireless & Network Security</b></summary>
+
+<br>
+
+| # | Tool | Skill |
+|---:|---|---|
+| 41 | **Hydra** | Authentication security auditing |
+| 42 | **John the Ripper** | Password hash auditing |
+| 43 | **Hashcat** | Password hash analysis |
+| 44 | **Medusa** | Authentication auditing |
+| 45 | **Aircrack-ng** | Wireless security assessment |
+| 46 | **Reaver** | WPS security assessment |
+| 47 | **Wifite** | Wireless security auditing automation |
+| 48 | **Kismet** | Wireless discovery & monitoring |
+| 49 | **Macchanger** | MAC address privacy testing |
+| 50 | **Wireshark** | Packet capture & protocol analysis |
+
+<br>
+
+![Hydra](https://img.shields.io/badge/41-Hydra-006400?style=flat-square)
+![John](https://img.shields.io/badge/42-John%20the%20Ripper-8B4513?style=flat-square)
+![Hashcat](https://img.shields.io/badge/43-Hashcat-FF4500?style=flat-square)
+![Medusa](https://img.shields.io/badge/44-Medusa-800080?style=flat-square)
+![Aircrack-ng](https://img.shields.io/badge/45-Aircrack--ng-00BFFF?style=flat-square)
+
+![Reaver](https://img.shields.io/badge/46-Reaver-DC143C?style=flat-square)
+![Wifite](https://img.shields.io/badge/47-Wifite-228B22?style=flat-square)
+![Kismet](https://img.shields.io/badge/48-Kismet-4169E1?style=flat-square)
+![Macchanger](https://img.shields.io/badge/49-Macchanger-696969?style=flat-square)
+![Wireshark](https://img.shields.io/badge/50-Wireshark-1679A7?style=flat-square)
+
+</details>
+
+---
+
+<!-- ========================= -->
+<!--      SECURITY SKILLS      -->
+<!-- ========================= -->
+
+## 🎯 Cybersecurity Focus
+
+<div align="center">
+
+| 🔎 Recon | 🌐 Web Security | 📡 Network Security |
+|:---:|:---:|:---:|
+| OSINT | OWASP Testing | Traffic Analysis |
+| Subdomain Enumeration | API Security | Network Enumeration |
+| Attack Surface Mapping | Vulnerability Assessment | Protocol Analysis |
+
+| 🪟 Active Directory | 📶 Wireless | 🔬 Security Research |
+|:---:|:---:|:---:|
+| AD Enumeration | Wi-Fi Security | Vulnerability Research |
+| Windows Security | Wireless Analysis | Exploit Research |
+| Authentication Security | Packet Capture | Digital Forensics |
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--       CURRENT FOCUS       -->
+<!-- ========================= -->
+
+## 🚀 Currently Learning
+
+```text
+Cybersecurity
+├── 🐉 Kali Linux
+├── 🌐 Web Application Security
+├── 🔎 OSINT & Reconnaissance
+├── 📡 Network Security
+├── 🪟 Active Directory Security
+├── 📶 Wireless Security
+├── 🔐 Authentication Security
+├── 🔬 Vulnerability Research
+└── 🤖 AI-Assisted Cybersecurity
