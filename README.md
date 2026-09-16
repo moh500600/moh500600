@@ -52,15 +52,3 @@
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
-
----
-
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/moh500600/fastapi-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moh500600&repo=fastapi-backend" />
-  </a>
-  <a href="https://github.com/moh500600/solahub-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moh500600&repo=solahub-frontend" />
-  </a>
-</p>
