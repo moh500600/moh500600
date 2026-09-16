@@ -16,7 +16,7 @@
 - 👨🏽‍💻 I’m currently working on AI Agents & Secure Backend Systems;
 - 🌱 I’m currently exploring Advanced Ethical Hacking & Kali Linux Ecosystem; 
 - 👯 I’m looking to collaborate on secure web applications and AI solutions 🤝;
-- 💬 Ask me about Python, FastAPI, PHP, Java, and Web Security;
+- 💬 Ask me about Python, FastAPI, PHP, Java, JavaScript, and Web Security;
 - ⚡️ Fun-Fact: Passionate about combining AI with Cybersecurity;
 - 📫 How to reach me: your-email@example.com;
 
@@ -27,7 +27,7 @@
     <img width="55%" align="right" alt="moh500600's github stats" src="https://github-readme-stats.vercel.app/api?username=moh500600&show_icons=true&hide_border=true" />
   </a>
 
-  <!-- Programming Languages & Web -->
+  <!-- Programming Languages -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
@@ -36,7 +36,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <br />
-  <!-- Frameworks & AI / OS -->
+  <!-- Frameworks, AI & OS -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/fastapi/fastapi-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kali_linux/kali_linux-ar21.svg"></code>
   <code><img width="10%" src="https://img.shields.io/badge/AI-Agents-blue?style=for-the-badge&logo=openai&logoColor=white"></code>
